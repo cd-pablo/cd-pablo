@@ -9,22 +9,19 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>
 
 <div align="center">
 
-Sobre mim
-
+<br>
 <p>
 Sou iniciante em programação com formação técnica em Informática. Tenho experiência básica em Java, PHP e SQL, além de prática em documentação técnica.
 Estou sempre em busca de aprender novas tecnologias e crescer como desenvolvedor.
 </p>
 </div>
-
+<br>
 <div align="center">
-
-GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cd-pablo&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=stars,forks">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd-pablo&layout=compact&theme=chartreuse-dark&hide_border=true">
 </div>
-
+<br>
 <div align="center">
 
 Tecnologias & Ferramentas em Aprendizado
