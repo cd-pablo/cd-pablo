@@ -50,13 +50,13 @@ Contato
 <a href="https://www.linkedin.com/in/pablo-baioco-976882229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="105" height="25" /></a>
 <a href="https://github.com/cd-pablo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="105" height="25" /></a>
 </div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=009929&section=footer"/>
-</div>
-
+<br>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cd-pablo/cd-pablo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cd-pablo/cd-pablo/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cd-pablo/cd-pablo/output/github-contribution-grid-snake.svg">
 </picture>
+<br>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=009929&section=footer"/>
+</div>
